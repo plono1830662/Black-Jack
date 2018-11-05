@@ -17,6 +17,7 @@ namespace black_jack_final_version
             affcarteJ1 = carteJ1;
             affcarteJ2 = carteJ2;
 
+
             affcarteJ1.ToString();
             affcarteJ2.ToString();
 
